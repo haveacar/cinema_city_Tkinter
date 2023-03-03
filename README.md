@@ -1,4 +1,4 @@
-<p><strong>Cinema City SEll</strong></p>
+<p><strong>Cinema City SELL</strong></p>
 <p><strong>Tkinter</strong></p>
 <p>Sell Tickets application</p>
 <p>Include 3 Halls</p>
