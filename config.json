@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Small hall",
+        "rows":7,
+        "places":9
+    },
+    {
+        "name":"Medium hall",
+        "rows":9,
+        "places":9
+    },
+    {
+        "name":"Big Hall",
+        "rows":11,
+        "places":10
+    }
+
+]
